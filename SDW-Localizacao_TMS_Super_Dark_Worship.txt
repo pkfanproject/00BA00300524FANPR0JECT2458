@@ -1,0 +1,121 @@
+TM Locations:
+TM01 - SWORDSDANCE - Route 15
+TM02 - BODYSLAM - Pompano Mart
+TM03 - FLAMETHROWER - Pompano Gym Rematch
+TM04 - HYDROPUMP - Starboard Gym
+TM05 - SOLARBLADE - Route 11
+TM06 - ICEBEAM - Capri Gym Leader
+TM07 - BLIZZARD - Capri Gym Rematch
+TM08 - LOWKICK - Pompano Mart
+TM09 - THUNDERBOLT - HM00 Rangiroa City
+TM10 - THUNDER - Price Machinne Abaco
+TM11 - EARTHQUAKE - Nosemancer Rangiroa City
+TM12 - PSYCHIC - Pompano Mart
+TM13 - AGILITY - Pompano Mart
+TM14 - TEMPERFLARE - Vulcão de Otomai
+TM15 - METRONOME - Route 9
+TM16 - FIREBLAST - Beta Tower Entrance
+TM17 - PROTECT - Snow Hill Route
+TM18 - AMNESIA - Treech Forest
+TM19 - LEECHLIFE - Abaco Mart
+TM20 - SUPERCELLSLAM - Hidrelétrica
+TM21 - SUBSTITUTE - Pompano Mart
+TM22 - REVERSAL - Coral Gym
+TM23 - SLUDGEBOMB - Route 6
+TM24 - SPIKES - Coral City
+TM25 - OUTRAGE - Route 20
+TM26 - PSYSHOCK - Abaco Mart
+TM27 - PSYCHICNOISE - Pompano Mart
+TM28 - SLEEPTALK - Pompano Mart
+TM29 - MEGAHORN - Pompano Mart
+TM30 - HARDPRESS - Abaco Mart
+TM31 - ENCORE - Luris Cave
+TM32 - IRONTAIL - Pompano City
+TM33 - CRUNCH - Solaris Gym
+TM34 - SHADOWBALL - Pompano Mart
+TM35 - FUTURESIGHT - Abaco Mart
+TM36 - UPROAR - Solaris House
+TM37 - HEATWAVE - Route 15
+TM38 - TAUNT - Vovo Iranau
+TM39 - TRICK - Route 3 (Old)
+TM40 - SUPERPOWER - Coral Gym Rematch
+TM41 - ALLURINGVOICE - Abaco Mart
+TM42 - BLAZEKICK - Abaco Mart
+TM43 - HYPERVOICE - Route 4 (Chimchar Quest)
+TM44 - OVERHEAT - Pompano Gym
+TM45 - COSMICPOWER - Pompano Mart
+TM46 - MUDDYWATER - Pompano Mart
+TM47 - IRONDEFENSE - Abaco Mart
+TM48 - DRAGONCLAW - Frigost Cave
+TM49 - BULKUP - Route 10
+TM50 - CALMMIND - Route 10
+TM51 - LEAFBLADE - Abaco Mart
+TM52 - DRAGONDANCE - Leviatã House
+TM53 - GYROBALL - Abaco Mart
+TM54 - CLOSECOMBAT - Route 3
+TM55 - TOXICSPIKES - Pompano Mart
+TM56 - FLAREBLITZ - Pompano Mart
+TM57 - AURASPHERE - Gold Solaris City
+TM58 - POISONJAB - Pompano Mart
+TM59 - DARKPULSE - Solaris City Rematch
+TM60 - SEEDBOMB - Route 5 (Kia Malifa)
+TM61 - XSCISSOR - Abaco Mart
+TM62 - BUGBUZZ - Otomai Island Forest
+TM63 - DRAGONPULSE - Limia Gym
+TM64 - POWERGEM - Route 13
+TM65 - FOCUSBLAST - Route 3
+TM66 - ENERGYBALL - Abaco Mart
+TM67 - BRAVEBIRD - Pompano Mart
+TM68 - EARTHPOWER - Limia City CP
+TM69 - NASTYPLOT - Route 8
+TM70 - ZENHEADBUTT - Abaco Mart
+TM71 - FLASHCANNON - LJDarkrai Rangiroa City
+TM72 - LEAFSTORM - Price Machinne Abaco
+TM73 - POWERWHIP - Pompano Mart
+TM74 - GUNKSHOT - Nubious Desert
+TM75 - IRONHEAD - Pompano Mart
+TM76 - STONEEDGE - Cave Route 3
+TM77 - STEALTHROCK - Pompano Mart
+TM78 - GRASSKNOT - Abaco Mart
+TM79 - SLUDGEWAVE - Pompano Mart
+TM80 - HEAVYSLAM - Abaco Mart
+TM81 - ELECTROBALL - Marlin Town
+TM82 - FOULPLAY - Pompano Mart
+TM83 - STOREDPOWER - Abaco Mart
+TM84 - RAZORSHELL - Pompano Mart
+TM85 - SCALD - Abaco Mart
+TM86 - WORKUP - Mystery Lake
+TM87 - WILDCHARGE - Abaco Mart
+TM88 - DRILLRUN - Pompano Mart
+TM89 - HEATCRASH - Barry Pompano
+TM90 - HURRICANE - Route 7
+TM91 - PLAYROUGH - Frigost Cave F2
+TM92 - VENOMDRENCH - Pompano Mart
+TM93 - DAZZLINGGLEAM - Abaco Gym Rematch
+TM94 - DARKESTLARIAT - Pompano Mart
+TM95 - HIGHHORSEPOWER - Abaco Mart
+TM96 - THROATCHOP - Pompano Mart
+TM97 - POLLENPUFF - Safari Zone
+TM98 - PSYCHICFANGS - Route 18
+TM99 - LIQUIDATION - Starboard Gym Rematch
+TM100 - BODYPRESS - Route 14
+TM101 - RETALIATE - Rangiroa Gym
+TM102 - VOLTSWITCH - Abaco Mart
+TM103 - BULLDOZE - Pompano Mart
+TM104 - ELECTROWEB - Abaco Mart
+TM105 - ACROBATICS - Route 20
+TM106 - UPPERHAND - Abaco Mart
+TM107 - SNARL - Cave Route 19
+TM108 - PHANTOMFORCE - Hero Cemetery
+TM109 - DRAININGKISS - Abaco Gym
+TM110 - GRASSYTERRAIN - Sufokia CP
+TM111 - MISTYTERRAIN - Sufokia CP
+TM112 - PSYCHICTERRAIN - Sufokia CP
+TM113 - ELECTRICTERRAIN - Sufokia CP
+TM114 - MYSTICALFIRE - Route 19
+TM115 - EERIEIMPULSE - Abaco Mart
+TM116 - FALSESWIPE - Pompano Mart
+TM117 - AIRSLASH - Mystic Mountain
+TM118 - SMARTSTRIKE - Price Machinne Abaco
+TM119 - BRUTALSWING - Safari Zone
+TM120 - BREAKINGSWIPE - Sootopolis City
